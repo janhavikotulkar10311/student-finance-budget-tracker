@@ -150,4 +150,3 @@ Multiple formatting rules applied to automatically highlight overspending, defic
 
 **Janhavi Kotulkar**
 MS Business Analytics — DePaul University, Chicago
-[LinkedIn](www.linkedin.com/in/janhavi-kotulkar) | [GitHub](https://github.com/janhavikotulkar10311)
